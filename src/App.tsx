@@ -1,5 +1,12 @@
 import "./App.css";
+import { Greet } from "./components/Greet";
 
-function App() {}
+function App() {
+  return (
+    <div className="App">
+      <Greet name="Kannan" />
+    </div>
+  );
+}
 
 export default App;
