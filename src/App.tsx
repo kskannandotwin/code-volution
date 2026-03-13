@@ -1,10 +1,10 @@
 import "./App.css";
-import { Container } from "./components/Container";
+import { User } from "./components/state/User";
 
 function App() {
   return (
     <div className="App">
-      <Container styles={{ backgroundColor: "lightblue", padding: "20px" }} />
+      <User />
     </div>
   );
 }
