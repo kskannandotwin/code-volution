@@ -1,0 +1,29 @@
+.class-with-sm-primary {
+  font-size: 12px;
+  color: blue;
+}
+
+.class-with-md-primary {
+  font-size: 16px;
+  color: blue;
+}
+
+.class-with-lg-primary {
+  font-size: 24px;
+  color: blue;
+}
+
+.class-with-sm-secondary {
+  font-size: 12px;
+  color: gray;
+}
+
+.class-with-md-secondary {
+  font-size: 16px;
+  color: gray;
+}
+
+.class-with-lg-secondary {
+  font-size: 24px;
+  color: gray;
+}
